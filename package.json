@@ -1,0 +1,14 @@
+{
+  "name": "acl_project",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pcap": "git://github.com/mranney/node_pcap.git"
+  }
+}
